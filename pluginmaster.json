@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Liminal",
+    "Name": "CPOSER",
+    "Punchline": "Give every Glamourer design its own idle pose.",
+    "Description": "CPOSER automatically switches to the idle pose linked to your active Glamourer design.\n\nCommand: /cposer",
+    "InternalName": "CPOSER",
+    "AssemblyVersion": "0.1.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "glamourer",
+      "cpose",
+      "idle",
+      "automation"
+    ],
+    "RepoUrl": "https://github.com/Liminal-Plugins/CPOSER-Releases",
+    "DownloadLinkInstall": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.1/latest.zip",
+    "IsTestingExclusive": false,
+    "LastUpdate": 1781925136
+  }
+]
